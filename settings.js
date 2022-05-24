@@ -28,12 +28,12 @@ global.nomerowner = '6282145614361' //Owner Utama Istilahnya
 global.namabot = 'NdaaBotz-MD' //Ganti Jadi Nama Botmu
 global.packname = '' //Sticker Weem
 global.author = '' //Sticker Weem
-global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
+global.webme = 'https://ndaabotzz.erlandagaming.repl.co/' //Ganti Sama Web Mu
+global.linkgroup = 'https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
-global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/fandyyy._' //Ganti Sama Link Ig mu
+global.youtube = 'https://youtube.com/' //Ganti Sama Link Yt Mu
+global.github = 'https://github.com/NdaaXD' //Ganti Sama Link Github Mu
+global.instagram = 'https://instagram.com' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
