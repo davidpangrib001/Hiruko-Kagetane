@@ -12,9 +12,9 @@ global.APIKeys = {
 
 //===> ATUR BIAR KALIAN SENENG
 global.autoReadGc = false //Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-global.autoReadAll = false //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+global.autoReadAll = true //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
 global.anticall = true //Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
-global.available = false //Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
+global.available = true //Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
 global.autoTyping = true //Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
 global.autoRecord = false //Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
 global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
@@ -22,14 +22,14 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ndaa' //Ganti Jadi Namamu
-global.owner = ['6282145614361','6282145614361'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6282145614361' //Owner Utama Istilahnya
-global.namabot = 'NdaaBotz-MD' //Ganti Jadi Nama Botmu
-global.packname = '' //Sticker Weem
+global.namaowner = 'Davitt' //Ganti Jadi Namamu
+global.owner = ['6282160268332','6282128475388'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6282160268332' //Owner Utama Istilahnya
+global.namabot = 'OneBotZ-MD' //Ganti Jadi Nama Botmu
+global.packname = 'Packname : One Botz\'s Sticker\nPackname : David' //Sticker Weem
 global.author = '' //Sticker Weem
-global.webme = 'https://ndaabotzz.erlandagaming.repl.co/' //Ganti Sama Web Mu
-global.linkgroup = 'https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS' //Ganti Sama Link Gc Mu
+global.webme = 'https://bit.ly/3lGiupt' //Ganti Sama Web Mu
+global.linkgroup = 'https://chat.whatsapp.com/GfwblXDHAqF4iA27wk8Gf4' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
 global.youtube = 'https://youtube.com/' //Ganti Sama Link Yt Mu
 global.github = 'https://github.com/NdaaXD' //Ganti Sama Link Github Mu
@@ -37,7 +37,7 @@ global.instagram = 'https://instagram.com' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.bg2 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=monarch-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.bg2 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.bg3 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=yolo-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.bg4 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fun-run-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
